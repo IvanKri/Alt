@@ -1,0 +1,43 @@
+﻿@model IEnumerable<BookStorePL.Models.BookViewModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "/Views/MasterView/MasterView.cshtml";
+}
+
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">WebSiteName</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="#">Page 1</a></li>
+                <li><a href="#">Page 2</a></li>
+                <li><a href="#">Page 3</a></li>
+            </ul>
+        </div>
+    </nav>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Author</th>
+                <th>Year</th>
+                <th><a href="~/Book/AddBook">Добавить</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Author</td>
+                <td>@item.Year</td>
+                <td>
+                    <a href="~/Book/DeleteBook?bookId=@item.Id">Удалить</a>
+                    <br /><a href="~/Book/UpdateBook?bookId=@item.Id">Обновить</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>

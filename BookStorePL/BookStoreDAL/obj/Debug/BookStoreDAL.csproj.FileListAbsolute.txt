@@ -1,0 +1,11 @@
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\BookStoreDAL.dll.config
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\BookStoreDAL.dll
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\BookStoreDAL.pdb
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.dll
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.xml
+D:\VSProjects\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.csproj.CoreCompileInputs.cache
+D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.dll
+D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.pdb
+D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.csprojResolveAssemblyReference.cache

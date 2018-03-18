@@ -1,0 +1,15 @@
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\BookStoreBLL.dll
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\BookStoreBLL.pdb
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\AutoMapper.dll
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\BookStoreDAL.dll
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\Ninject.dll
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\EntityFramework.dll
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\BookStoreDAL.pdb
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\BookStoreDAL.dll.config
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\AutoMapper.xml
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\Ninject.xml
+D:\VSProjects\BookStorePL\BookStoreBLL\bin\Debug\EntityFramework.xml
+D:\VSProjects\BookStorePL\BookStoreBLL\obj\Debug\BookStoreBLL.csprojResolveAssemblyReference.cache
+D:\VSProjects\BookStorePL\BookStoreBLL\obj\Debug\BookStoreBLL.csproj.CoreCompileInputs.cache
+D:\VSProjects\BookStorePL\BookStoreBLL\obj\Debug\BookStoreBLL.dll
+D:\VSProjects\BookStorePL\BookStoreBLL\obj\Debug\BookStoreBLL.pdb
