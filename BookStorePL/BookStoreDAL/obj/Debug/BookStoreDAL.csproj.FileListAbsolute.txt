@@ -9,3 +9,14 @@ D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.csproj.CoreCompile
 D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.dll
 D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.pdb
 D:\VSProjects\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.csprojResolveAssemblyReference.cache
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\BookStoreDAL.dll.config
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\BookStoreDAL.dll
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\BookStoreDAL.pdb
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.dll
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.xml
+D:\Git\BookStore\BookStorePL\BookStoreDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\BookStore\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.csprojResolveAssemblyReference.cache
+D:\Git\BookStore\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.csproj.CoreCompileInputs.cache
+D:\Git\BookStore\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.dll
+D:\Git\BookStore\BookStorePL\BookStoreDAL\obj\Debug\BookStoreDAL.pdb

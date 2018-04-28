@@ -37,7 +37,6 @@ namespace BookStorePL.Controllers
                     BLBook blbook = Mapper.Map<BookViewModel, BLBook>(book);
                     ser.AddBook(blbook);
                 }
-                ser.SaveChanges();
                 return Redirect("Index");
             }
             return View();
@@ -48,7 +47,6 @@ namespace BookStorePL.Controllers
             if (bookId != 0)
             {
                 ser.DeleteBook(bookId);
-                ser.SaveChanges();
             }
             return Redirect("Index");
 
@@ -71,7 +69,6 @@ namespace BookStorePL.Controllers
                 if (model != null)
                 {
                     ser.UpdateBook(Mapper.Map<BookViewModel, BLBook>(model));
-                    ser.SaveChanges();
                 }
                 return Redirect("Index");
             }

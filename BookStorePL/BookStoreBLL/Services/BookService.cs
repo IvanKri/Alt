@@ -46,7 +46,6 @@ namespace BookStoreBLL.Services
                 Book abook = Mapper.Map<BLBook, Book>(book);
                 db.AddBook(abook);
             }
-            db.SaveChanges();
         }
         public void DeleteBook(int bookId)
         {
@@ -54,7 +53,6 @@ namespace BookStoreBLL.Services
             {
                 db.DeleteBook(bookId);
             }
-            db.SaveChanges();
         }
         public void UpdateBook(BLBook book)
         {
@@ -62,7 +60,6 @@ namespace BookStoreBLL.Services
             {
               db.UpdateBook(Mapper.Map<BLBook,Book>(book));
             }
-            db.SaveChanges();
         }
         public void SaveChanges()
         {

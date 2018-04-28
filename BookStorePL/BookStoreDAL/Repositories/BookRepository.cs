@@ -32,8 +32,9 @@ namespace BookStoreDAL.Repositories
             if (book != null)
             {
                 db.Books.Add(book);
+                db.SaveChanges();
             }
-            db.SaveChanges();
+            
         }
         public void DeleteBook(int bookId)
         {
@@ -41,8 +42,8 @@ namespace BookStoreDAL.Repositories
             {
                 Book book = db.Books.FirstOrDefault(x => x.Id == bookId);
                 db.Books.Remove(book);
+                db.SaveChanges();
             }
-            db.SaveChanges();
         }
         public void UpdateBook(Book book)
         {
@@ -52,8 +53,8 @@ namespace BookStoreDAL.Repositories
                 entity.Name = book.Name;
                 entity.Author = book.Author;
                 entity.Year = book.Year;
+                db.SaveChanges();
             }
-            db.SaveChanges();
         }
         public void SaveChanges()
         {
